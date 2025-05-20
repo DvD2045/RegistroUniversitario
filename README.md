@@ -24,4 +24,3 @@ DatabaseInitializer: Carga datos iniciales como roles o usuarios.
 Permite que los estudiantes evalúen a los docentes.
 
 Usa EvaluacionDocente como entidad relacionada con Docente y Estudiante.
-git clone https://github.com/LiaRos-ai/RegistroUniversitario.git
